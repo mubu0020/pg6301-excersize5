@@ -19,6 +19,12 @@
   "homepage": "https://github.com/mubu0020/pg6301-excersize5#readme",
   "description": "",
   "devDependencies": {
+    "husky": "^9.1.7",
+    "prettier": "^3.6.2",
     "vite": "^7.1.5"
+  },
+  "dependencies": {
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
   }
 }
